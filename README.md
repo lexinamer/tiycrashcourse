@@ -1,4 +1,4 @@
-##TIY Crash Course
+##TIY Crash Course: How to Make the Best/Worst Webpage
 
 Use this Repo to download the necessary files for this course. You will see two folders, _purrfectcats_ and _purrfectcats-demo_. The demo folder contains the complete exercise- only use this as a reference AFTER you have tried to complete the assignment on your own. We will be working in the main folder during this course.
 
