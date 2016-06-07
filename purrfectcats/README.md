@@ -14,8 +14,17 @@ Follow the instructions to complete the assignment. You can use the webpage that
 
 ## Adding a header
 1. Add an `H1` tag with the name of the webpage
-2. Add a `H4` tag with the following:
+> The top 5 Purrfect Cats
+
+2. Add a `H3` tag with the following:
 > The Internet exists to share pictures of cats with the masses. This webpage is no exception. Here is a list of 5 purrfect cats, in no particular order.
+
+3. Add a link to `http://bit.ly/tiycrash` and make it open in a new page
+> View the original project files here
+
+```html
+<a href="http://bit.ly/tiycrash" target="_blank">
+```
 
 
 ## The Cool Cat
