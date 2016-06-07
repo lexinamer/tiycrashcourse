@@ -83,29 +83,30 @@ One of the most important rules of the web is to cite appropriately and give cre
 ## Styling your page
 In your style.css file, lets add the following styles to make our make look a little more fun:
 
-1. Give the `body` attribute the following styles:
-- Make the font `Trebuchet MS`
-- Give it a color of `dimgray`
-- Make the text centered
-- Add 25% padding to the left and right
++ Give the `body` attribute the following styles:
+  - Make the font `Trebuchet MS`
+  - Give it a color of `dimgray`
+  - Make the text centered
+  - Add 25% padding to the left and right
 
-2. Style the `H1` as follows:
-- Give it a color of `orangered`
-- Make the font size 50px
-- Make it all uppercase
++ Style the `H1` as follows:
+  - Give it a color of `orangered`
+  - Make the font size 50px
+  - Make it all uppercase
 
-3. Style the `H2` as follows:
-- Give it a color of `teal`
-- Make the font size 35px
-- Make it all uppercase
-- Add 30px of padding to only the top
++ Style the `H2` as follows:
+  - Give it a color of `teal`
+  - Make the font size 35px
+  - Make it all uppercase
+  - Add 30px of padding to only the top
 
-4. Style the `H3` as follows:
-- Make it all uppercase
++ Style the `H3` as follows:
+  - Make it all uppercase
 
-5. Give the `img` the following styles
-- Set the width to 100%  
-- Set the height to auto
++ Give the `img` the following styles
+  - Set the width to 100%  
+  - Set the height to auto
+
 
 ## Bonus Styling
 If you have time, make page responsive (working on all devices) by adding something called a media query. For this example, the only thing we really need to change is to remove the body padding that we set at the beginning. So that when the page is viewed on a mobile phone, there wont be a ton of white space on the left and right side. Add the following code to the bottom of your stylesheet. You can read more about them here: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
