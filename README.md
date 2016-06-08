@@ -25,8 +25,10 @@ Attendees leave the class with a complete, one page site that is functional and 
 - Finish the assignment
 
 
-### Helpful Links to Continue working
+### Helpful Links to Continue Working
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 - Link to Keynote presentation: https://www.dropbox.com/s/ecoj8ldonixfnp1/TIYCrashCourse.key?dl=0
+- List of web recognizable colors: http://htmlcolorcodes.com/color-names/
+- List of web recognizable fonts: http://www.cssfontstack.com/

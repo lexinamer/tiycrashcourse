@@ -76,6 +76,7 @@ Follow the instructions to complete the assignment. You can use the webpage that
 
 3. Add an `img` tag that links to _kittycat.jpg_
 
+**DONT FORGET YOUR `ALT` ATTRIBUTES!**
 
 ## Attribution
 One of the most important rules of the web is to cite appropriately and give credit where credit is due. So lets be kind and give attribution to the great people who provided these images.
